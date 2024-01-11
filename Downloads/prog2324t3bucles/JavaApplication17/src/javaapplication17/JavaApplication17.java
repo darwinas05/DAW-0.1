@@ -14,15 +14,20 @@ public class JavaApplication17 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic 
+    
         
         
         
         
-        System.out.println(" hola mundo");
+        
 
         // somos muy malos para estos trabajos 
-        
+        "author": "Romero",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "typescript": "^5.3.2"
+  },
 
 
 
